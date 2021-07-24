@@ -1,0 +1,180 @@
+[
+  {
+    "Id": "0",
+    "Title": "Black Patiala suit",
+    "Description": "Black Patiala suit.",
+    "img": "black.jpg",
+    "Price": "1500.00",
+
+    "Ratings": [
+      5,
+      5
+    ]
+  },
+    {
+    "Id": "1",
+    "Title": "Black Patiala suit",
+    "Description": "Black Patiala suit.",
+    "img": "black1.jpg",
+    "Price": "1500.00",
+    "Ratings": [
+      5,
+      5
+    ]
+  },
+    {
+    "Id": "2",
+    "Title": "Black Patiala suit",
+    "Description": "Black Patiala suit.",
+    "img": "black2.jpg",
+    "Price": "1500.00",
+    "Ratings": [
+      5,
+      5
+    ]
+  },
+    {
+    "Id": "3",
+    "Title": "Grey Patiala suit",
+    "Description": "Grey Patiala suit.",
+    "img": "gray.jpg",
+    "Price": "1500.00",
+    "Ratings": [
+      5,
+      5
+    ]
+  },
+    {
+    "Id": "4",
+    "Title": "Green Patiala suit",
+    "Description": "Green Patiala suit.",
+    "img": "green.jpg",
+    "Price": "1500.00",
+    "Ratings": [
+      5,
+      5
+    ]
+  },
+    {
+    "Id": "5",
+    "Title": "Green Patiala suit",
+    "Description": "Green Patiala suit.",
+    "img": "green1.jpg",
+    "Price": "1500.00",
+    "Ratings": [
+      5,
+      5
+    ]
+  },
+    {
+    "Id": "6",
+    "Title": "Green Patiala suit",
+    "Description": "Green Patiala suit.",
+    "img": "green2.jpg",
+    "Price": "1500.00",
+    "Ratings": [
+      5,
+      5
+    ]
+  },
+    {
+    "Id": "7",
+    "Title": "Green Patiala suit",
+    "Description": "Green Patiala suit.",
+    "img": "green3.jpg",
+    "Price": "1500.00",
+    "Ratings": [
+      5,
+      5
+    ]
+  },
+    {
+    "Id": "8",
+    "Title": "Light Green Patiala suit",
+    "Description": "Light Green Patiala suit.",
+    "img": "light_green.jpg",
+    "Price": "1500.00",
+    "Ratings": [
+      5,
+      5
+    ]
+  },
+    {
+    "Id": "9",
+    "Title": "Maroon Patiala suit",
+    "Description": "Maroon Patiala suit.",
+    "img": "maroon.jpg",
+    "Price": "1500.00",
+    "Ratings": [
+      5,
+      5
+    ]
+  },
+    {
+    "Id": "10",
+    "Title": "Orange Patiala suit",
+    "Description": "Orange Patiala suit.",
+    "img": "orange.jpg",
+    "Price": "1500.00",
+    "Ratings": [
+      5,
+      5
+    ]
+  },
+    {
+    "Id": "11",
+    "Title": "Pink Patiala suit",
+    "Description": "Pink Patiala suit.",
+    "img": "pink.jpg",
+    "Price": "1500.00",
+    "Ratings": [
+      5,
+      5
+    ]
+  },
+      {
+    "Id": "12",
+    "Title": "Red Patiala suit",
+    "Description": "Red Patiala suit.",
+    "img": "red.jpg",
+    "Price": "1500.00",
+    "Ratings": [
+      5,
+      5
+    ]
+  },
+      {
+    "Id": "13",
+    "Title": "Yellow Patiala suit",
+    "Description": "Yellow Patiala suit.",
+    "img": "yellow.jpg",
+    "Price": "1500.00",
+    "Ratings": [
+      5,
+      5
+    ]
+  },
+      {
+    "Id": "14",
+    "Title": "Yellow Silk Patiala suit",
+    "Description": "Yellow Silk Patiala suit.",
+    "img": "yellow_silk.jpg",
+    "Price": "1500.00",
+    "Ratings": [
+      5,
+      5
+    ]
+  },
+        {
+    "Id": "15",
+    "Title": "Yellow Silk Patiala suit",
+    "Description": "Yellow Silk Patiala suit.",
+    "img": "yellow_nivedita.jpg",
+    "Price": "1500.00",
+    "Ratings": [
+      5,
+      5
+    ]
+  }
+
+]
