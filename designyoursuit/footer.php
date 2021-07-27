@@ -2,9 +2,20 @@
     <footer class="bg-dark" id="tempaltemo_footer">
         <div class="container">
             <div class="row">
-
                 <div class="col-md-12 pt-5">
-                    <h2 class="h2 text-success border-bottom pb-3 border-light logo">Design your suit with your measurement</h2>
+                        <nav class="navbar navbar-expand-lg navbar-light shadow">
+                            <div class="container d-flex justify-content-between align-items-center">
+
+                                <a class="navbar-brand text-success logo h3 align-self-center" href="index.php">
+                                    <img class="card-img rounded-0 img-fluid" src="assets/img/logo.png">
+                                </a>
+
+                                <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#templatemo_main_nav" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                                    <span class="navbar-toggler-icon"></span>
+                                </button>
+
+                            </div>
+                </nav>
                     <ul class="list-unstyled text-light footer-link-list">
                         <li>
                             <i class="fas fa-map-marker-alt fa-fw"></i>

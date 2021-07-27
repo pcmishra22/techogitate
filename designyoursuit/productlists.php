@@ -7,6 +7,7 @@
     <?php
         $str = file_get_contents('productlists.json');
         $productlistjson = json_decode($str, true);
+        
         if(count($productlistjson)>0)
         {
             foreach($productlistjson as $product)
