@@ -142,5 +142,21 @@
         "img": "l-black-side-chain-sanjana-fashion-original-imafxqtwcbhmzhga.jpeg",
         "Price": "5000",
         "Ratings": "5"
+    },
+    {
+        "Id": "18",
+        "Title": "eighteen",
+        "Description": "eighteen",
+        "img": "Screenshot from 2021-07-12 10-02-21.png",
+        "Price": "4500",
+        "Ratings": "7"
+    },
+    {
+        "Id": "19",
+        "Title": "nineteen",
+        "Description": "nineteen",
+        "img": "Screenshot from 2021-04-10 21-06-41.png",
+        "Price": "55",
+        "Ratings": "5"
     }
 ]
